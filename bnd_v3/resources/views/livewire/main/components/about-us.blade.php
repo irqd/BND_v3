@@ -43,6 +43,9 @@
                   <p class="text-justify">While B&D IT Consultancy is a relatively new company, having been founded in 2017, it has already begun establishing itself in the industry and building a reputation for quality work.</p>
                </div> 
             </div>
+            <button class="btn btn-sm btn-primary btn-icon-animation"> 
+                    <i class="fa-solid fa-play">&nbsp;</i> Read this for me             
+                </button>
          </div>
 
          <div class="col-md-10 col-lg-6 order-1 order-lg-2 text-center" data-aos="zoom-in">
